@@ -1,0 +1,6 @@
+{
+"q":"Esta es la pregunta!",
+"a":"option a",
+"b":"option b",
+"c":"option c",
+"r":"a"}
