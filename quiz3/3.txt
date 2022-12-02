@@ -1,0 +1,6 @@
+{
+"q":"Desarrollar las características del producto",
+"a":"Scrum Master",
+"b":"Product Owner",
+"c":"Team",
+"r":"c"}

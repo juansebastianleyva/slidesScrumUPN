@@ -1,0 +1,6 @@
+{
+"q":"Mantener claros los requerimientos",
+"a":"Scrum Master",
+"b":"Product Owner",
+"c":"Team",
+"r":"b"}

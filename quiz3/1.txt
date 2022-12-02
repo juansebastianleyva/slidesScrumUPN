@@ -1,0 +1,6 @@
+{
+"q":"Bloquear el backlog",
+"a":"Scrum Master",
+"b":"Product Owner",
+"c":"Team",
+"r":"a"}
