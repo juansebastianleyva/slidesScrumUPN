@@ -1,6 +1,6 @@
 {
-"q":"Esta es la pregunta!",
-"a":"option a",
-"b":"option b",
-"c":"option c",
+"q":"La duración de un sprint en promedio es:",
+"a":"3 semanas",
+"b":"1 semana",
+"c":"1 mes",
 "r":"a"}
