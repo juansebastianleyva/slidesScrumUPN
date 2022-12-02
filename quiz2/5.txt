@@ -1,0 +1,6 @@
+{
+"q":"EL Burndownchart____",
+"a":"es opcional, y se decide si se usa al principio de cada sprint",
+"b":"es una forma clara de mostrar al equipo qué está pasando y cómo se están realizando los avances en cada sprint.",
+"c":"es una responsabilidad del dueño del producto",
+"r":"b"}

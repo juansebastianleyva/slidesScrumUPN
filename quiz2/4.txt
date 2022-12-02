@@ -1,0 +1,6 @@
+{
+"q":"¿Cuando damos por finalizada una tarea?",
+"a":"Cuanso se cumplen los plazos minimos o maximos",
+"b":"En el momento que lo decide el dueño del producto",
+"c":"Cuando se verifica que cumple con los requisitos originales",
+"r":"c"}

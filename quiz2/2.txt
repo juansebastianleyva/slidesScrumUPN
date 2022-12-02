@@ -1,0 +1,6 @@
+{
+"q":"¿Cual es uno de los aspectos del SCRUM master como lider de servicio",
+"a":"la organizaciíón",
+"b":"La confianza en sí mismo",
+"c":"la humildad",
+"r":"c"}
